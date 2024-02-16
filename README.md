@@ -44,5 +44,6 @@ Upon launching the application, you will be greeted with a text input field. Her
 Contributions are welcome! If you have suggestions for improving this application, feel free to fork the repository, make your changes, and submit a pull request.
 
 ### Acknowledgments
-- **Constitution Source**: Law Commission of Nepal
-- **Model Training and Technology**: Hugging Face
+- **Constitution Source**: [Law Commission of Nepal](https://lawcommission.gov.np/en/wp-content/uploads/2021/01/Constitution-of-Nepal.pdf)
+- **Model Training and Technology**: [Hugging Face](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+- **Ai Anytime**: [Youtube](https://www.youtube.com/watch?v=kXuHxI5ZcG0&t=2386s)
